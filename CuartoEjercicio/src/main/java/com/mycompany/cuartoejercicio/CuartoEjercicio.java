@@ -19,10 +19,10 @@ public class CuartoEjercicio {
     public static void main(String[] args) {
         // TODO code application logic here
 
-        System.out.println("First number");
+        System.out.println("First number ");
         Scanner scan = new Scanner(System.in);
         float number1 = Float.parseFloat(scan.nextLine());
-        System.out.println("Second number");
+        System.out.println("Second number ");
         float number2 = Float.parseFloat(scan.nextLine());
         System.out.println("Which calculation do you want to do? ");
 
